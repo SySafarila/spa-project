@@ -1,0 +1,11 @@
+{
+    "url": {
+        "csrf-cookie" : "http://localhost:8000/api/sanctum/csrf-cookie",
+        "login": "http://localhost:8000/api/login",
+        "register": "http://localhost:8000/api/register",
+        "check-auth": "http://localhsost:8000/api/check-auth",
+        "data": {
+            "user": "http://localhost:8000/api/user"
+        }
+    }
+}
